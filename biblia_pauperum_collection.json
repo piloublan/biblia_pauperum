@@ -14,6 +14,12 @@
             "@type": "sc:Manifest",
             "label": "Munich. Bayerische Staatsbibliothek, Clm 28141"
         }
+        {
+            "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1040368w/f7/full/full/0/native.jpg",
+            "@id": "https://raw.githubusercontent.com/piloublan/biblia_pauperum/main/unknown_author_ca1480.json"",
+            "@type": "sc:Manifest",
+            "label": "BnF, département Réserve des livres rares, XYLO-2"
+        }
     ],
     "@id": "https://iiif.biblissima.fr/collections/collection/64049ac9fec9ae794b795782",
     "@type": "sc:Collection",
