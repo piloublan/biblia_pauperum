@@ -16,7 +16,7 @@
         }
         {
             "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1040368w/f7/full/full/0/native.jpg",
-            "@id": "https://raw.githubusercontent.com/piloublan/biblia_pauperum/main/unknown_author_ca1480.json"",
+            "@id": "https://raw.githubusercontent.com/piloublan/biblia_pauperum/main/unknown_author_ca1480.json",
             "@type": "sc:Manifest",
             "label": "BnF, département Réserve des livres rares, XYLO-2"
         }
