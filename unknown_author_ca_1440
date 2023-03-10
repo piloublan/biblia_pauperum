@@ -1,0 +1,561 @@
+{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/manifest","type":"Manifest","annotations":[],"behavior":["paged"],"homepage":[],"items":[{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/7","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/8","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/9","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/10","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/11","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/12","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/13","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/14","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/15","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/16","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/17","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/18","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/19","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/20","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/21","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/22","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/23","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/24","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/25","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/26","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/27","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/28","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/29","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/30","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/31","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/32","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/33","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/34","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/35","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/36","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/37","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/38","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/39","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/40","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/41","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/42","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/43","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/44","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/45","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/46","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/47","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/48","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/49","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/50","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/51","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/52","type":"Canvas"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/53","type":"Canvas"}],"label":{"none":["Biblia pauperum, lat./dt. - BSB Clm 28141"]},"logo":[],"metadata":[{"label":{"zh":["書名"],"de":["Titel"],"en":["Title"]},"value":{"none":["Biblia pauperum, lat./dt. - BSB Clm 28141"]}},{"label":{"zh":["生成"],"de":["Entstehung"],"en":["Creation"]},"value":{"none":["[S.l.] Oberpfalz (?)<br/>2. Viertel 15. Jh."]}},{"label":{"zh":["範疇"],"de":["Umfang"],"en":["Extent"]},"value":{"none":["24 Bl. - Pergament"]}},{"label":{"zh":["尺寸"],"de":["Maße"],"en":["Dimensions"]},"value":{"none":["34,5 x 26 cm"]}},{"label":{"zh":["語言"],"de":["Sprache"],"en":["Language"]},"value":{"zh":["拉丁语"],"de":["Latein"],"en":["Latin"]}},{"label":{"zh":["語言"],"de":["Sprache"],"en":["Language"]},"value":{"zh":["德语"],"de":["Deutsch"],"en":["German"]}},{"label":{"zh":["說明"],"de":["Anmerkung"],"en":["Note"]},"value":{"none":["Etwa 110 Federzeichnungen, sehr leicht laviert, Nürnberg?, um 1440, Leidinger Nr. 89"]}},{"label":{"zh":["說明"],"de":["Anmerkung"],"en":["Note"]},"value":{"none":["Kurzaufnahme einer Handschrift"]}},{"label":{"zh":["位置"],"de":["Standort"],"en":["Location"]},"value":{"none":["München, Bayerische Staatsbibliothek -- Clm 28141"]}},{"label":{"zh":["標識"],"de":["Identifikator"],"en":["Identifier"]},"value":{"none":["BSB-ID 11970195"]}},{"label":{"zh":["標識"],"de":["Identifikator"],"en":["Identifier"]},"value":{"none":["BV037188814"]}},{"label":{"zh":["標識"],"de":["Identifikator"],"en":["Identifier"]},"value":{"none":["OCLC 706990448"]}},{"label":{"zh":["標識"],"de":["Identifikator"],"en":["Identifier"]},"value":{"none":["BSB-Hss Clm 28141"]}},{"label":{"zh":["數位物件標識"],"de":["URN"],"en":["URN"]},"value":{"none":["<a href='https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00060101-5'>urn:nbn:de:bvb:12-bsb00060101-5</a>"]}},{"label":{"zh":["物件類別"],"de":["Objektkategorie"],"en":["Object Type"]},"value":{"none":["Buch"]}}],"motivation":null,"navDate":"1426-01-01T00:00:00Z","provider":[{"id":"http://example.org/provider","type":"Agent"}],"partOf":[],"posterCanvas":null,"accompanyingCanvas":null,"placeholderCanvas":null,"rendering":[],"requiredStatement":{"label":{"none":["Attribution"]},"value":{"zh":["Bayerische Staatsbibliothek"],"de":["Bayerische Staatsbibliothek"],"en":["Bayerische Staatsbibliothek"]}},"rights":"http://creativecommons.org/licenses/by-nc-sa/4.0/","seeAlso":[{"id":"https://mdz-nbn-resolving.de/details:bsb00060101","type":"ContentResource"},{"id":"https://opacplus.bsb-muenchen.de/title/BV037188814","type":"ContentResource"},{"id":"https://opacplus.bsb-muenchen.de/title/BV037188814?format=marc","type":"ContentResource"},{"id":"https://opacplus.bsb-muenchen.de/title/BV037188814?format=rdf","type":"ContentResource"}],"service":[],"services":[],"start":null,"structures":[{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/range/0","type":"Range"},{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/range/1","type":"Range"}],"summary":null,"thumbnail":[{"id":"https://api.digitale-sammlungen.de/iiif/image/v2/bsb00060101_00005/full/280,/0/default.jpg","type":"ContentResource"}],"viewingDirection":"left-to-right","@context":"http://iiif.io/api/presentation/3/context.json"}{
+    "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/manifest",
+    "type": "Manifest",
+    "annotations": [],
+    "behavior": [
+        "paged"
+    ],
+    "homepage": [],
+    "items": [
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/7",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/8",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/9",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/10",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/11",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/12",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/13",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/14",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/15",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/16",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/17",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/18",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/19",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/20",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/21",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/22",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/23",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/24",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/25",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/26",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/27",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/28",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/29",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/30",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/31",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/32",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/33",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/34",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/35",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/36",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/37",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/38",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/39",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/40",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/41",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/42",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/43",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/44",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/45",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/46",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/47",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/48",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/49",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/50",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/51",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/52",
+            "type": "Canvas"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/canvas/53",
+            "type": "Canvas"
+        }
+    ],
+    "label": {
+        "none": [
+            "Biblia pauperum, lat./dt. - BSB Clm 28141"
+        ]
+    },
+    "logo": [],
+    "metadata": [
+        {
+            "label": {
+                "zh": [
+                    "書名"
+                ],
+                "de": [
+                    "Titel"
+                ],
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblia pauperum, lat./dt. - BSB Clm 28141"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "生成"
+                ],
+                "de": [
+                    "Entstehung"
+                ],
+                "en": [
+                    "Creation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[S.l.] Oberpfalz (?)<br/>2. Viertel 15. Jh."
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "範疇"
+                ],
+                "de": [
+                    "Umfang"
+                ],
+                "en": [
+                    "Extent"
+                ]
+            },
+            "value": {
+                "none": [
+                    "24 Bl. - Pergament"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "尺寸"
+                ],
+                "de": [
+                    "Maße"
+                ],
+                "en": [
+                    "Dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "34,5 x 26 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "語言"
+                ],
+                "de": [
+                    "Sprache"
+                ],
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "zh": [
+                    "拉丁语"
+                ],
+                "de": [
+                    "Latein"
+                ],
+                "en": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "語言"
+                ],
+                "de": [
+                    "Sprache"
+                ],
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "zh": [
+                    "德语"
+                ],
+                "de": [
+                    "Deutsch"
+                ],
+                "en": [
+                    "German"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "說明"
+                ],
+                "de": [
+                    "Anmerkung"
+                ],
+                "en": [
+                    "Note"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Etwa 110 Federzeichnungen, sehr leicht laviert, Nürnberg?, um 1440, Leidinger Nr. 89"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "說明"
+                ],
+                "de": [
+                    "Anmerkung"
+                ],
+                "en": [
+                    "Note"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Kurzaufnahme einer Handschrift"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "位置"
+                ],
+                "de": [
+                    "Standort"
+                ],
+                "en": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "München, Bayerische Staatsbibliothek -- Clm 28141"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "標識"
+                ],
+                "de": [
+                    "Identifikator"
+                ],
+                "en": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "BSB-ID 11970195"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "標識"
+                ],
+                "de": [
+                    "Identifikator"
+                ],
+                "en": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "BV037188814"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "標識"
+                ],
+                "de": [
+                    "Identifikator"
+                ],
+                "en": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "OCLC 706990448"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "標識"
+                ],
+                "de": [
+                    "Identifikator"
+                ],
+                "en": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "BSB-Hss Clm 28141"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "數位物件標識"
+                ],
+                "de": [
+                    "URN"
+                ],
+                "en": [
+                    "URN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href='https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00060101-5'>urn:nbn:de:bvb:12-bsb00060101-5</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "zh": [
+                    "物件類別"
+                ],
+                "de": [
+                    "Objektkategorie"
+                ],
+                "en": [
+                    "Object Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Buch"
+                ]
+            }
+        }
+    ],
+    "motivation": null,
+    "navDate": "1426-01-01T00:00:00Z",
+    "provider": [
+        {
+            "id": "http://example.org/provider",
+            "type": "Agent"
+        }
+    ],
+    "partOf": [],
+    "posterCanvas": null,
+    "accompanyingCanvas": null,
+    "placeholderCanvas": null,
+    "rendering": [],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "zh": [
+                "Bayerische Staatsbibliothek"
+            ],
+            "de": [
+                "Bayerische Staatsbibliothek"
+            ],
+            "en": [
+                "Bayerische Staatsbibliothek"
+            ]
+        }
+    },
+    "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "seeAlso": [
+        {
+            "id": "https://mdz-nbn-resolving.de/details:bsb00060101",
+            "type": "ContentResource"
+        },
+        {
+            "id": "https://opacplus.bsb-muenchen.de/title/BV037188814",
+            "type": "ContentResource"
+        },
+        {
+            "id": "https://opacplus.bsb-muenchen.de/title/BV037188814?format=marc",
+            "type": "ContentResource"
+        },
+        {
+            "id": "https://opacplus.bsb-muenchen.de/title/BV037188814?format=rdf",
+            "type": "ContentResource"
+        }
+    ],
+    "service": [],
+    "services": [],
+    "start": null,
+    "structures": [
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/range/0",
+            "type": "Range"
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00060101/range/1",
+            "type": "Range"
+        }
+    ],
+    "summary": null,
+    "thumbnail": [
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00060101_00005/full/280,/0/default.jpg",
+            "type": "ContentResource"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "@context": "http://iiif.io/api/presentation/3/context.json"
+}
