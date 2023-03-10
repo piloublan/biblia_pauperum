@@ -8,3 +8,9 @@ Experimentation with IIIF.
 ### Create a collection and search for publications
 
 [Biblissima IIIF Collections](https://iiif.biblissima.fr/collections/)
+
+### IIIF Workbench
+
+It uses github, so it's a different approach than 
+
+[IIIF Workbench](https://workbench.gdmrdigital.com/login.xhtml)
